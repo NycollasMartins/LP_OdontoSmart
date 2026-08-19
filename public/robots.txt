@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: https://odontosmartdf.com
+Sitemap: https://odontosmartdf.com/sitemap.xml
